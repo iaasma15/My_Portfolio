@@ -4,3 +4,6 @@
 [submodule "markdownPreview"]
 	path = markdownPreview
 	url = https://github.com/iaasma15/markdownPreview
+[submodule "drumMachine"]
+	path = drumMachine
+	url = https://github.com/iaasma15/drumMachine
