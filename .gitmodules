@@ -1,0 +1,6 @@
+[submodule "randomQuoteMachine"]
+	path = randomQuoteMachine
+	url = https://github.com/iaasma15/randomQuoteMachine
+[submodule "markdownPreview"]
+	path = markdownPreview
+	url = https://github.com/iaasma15/markdownPreview
