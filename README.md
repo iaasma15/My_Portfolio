@@ -2,4 +2,4 @@
 
 ## [Markdown Preview](https://iaasma15.github.io/markdownPreview/.)
 
-## [Markdown Preview](https://iaasma15.github.io/drumMachine/.)
+## [Drum Machine](https://iaasma15.github.io/drumMachine/.)
